@@ -1,0 +1,4 @@
+/* к index.css подключаю через import файлы со стилями */
+
+@import url('styles/variables.css');
+@import url('styles/basic.css');
