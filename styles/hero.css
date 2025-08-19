@@ -28,7 +28,11 @@
     font-weight: 400;
 }
 
-
+.hero__title {
+    color: var(--co-green);
+    font-size: 65px;
+    font-weight: 700;
+}
 
 @media (max-width: 768px) {
     .hero {
@@ -54,18 +58,3 @@
     }
 
 }
-
-/*
-.hero__title {
-    color: var(--co-green);
-    font-size: 65px;
-    font-weight: 700;
-}
-
-
-
-
-
-
-
- */
